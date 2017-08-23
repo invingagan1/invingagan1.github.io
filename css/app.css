@@ -1,7 +1,7 @@
 .headerPanel{
-    background: rgba(0,0,255,1);
+    background: #6200ea;
     height: 200px;
-    color:rgba(0,0,0,0.87);
+    color:#FFFFFF;
     padding:16px;
     box-shadow: 0 0 10px #000;
     position: fixed;
