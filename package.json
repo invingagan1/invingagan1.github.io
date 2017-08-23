@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/invingagan1/invingagan1.github.io/issues"
   },
-  "homepage": "https://github.com/invingagan1/invingagan1.github.io#readme"
+  "homepage": "https://github.com/invingagan1/invingagan1.github.io#readme",
+  "dependencies": {
+    "bootstrap-material-design": "^0.5.10"
+  }
 }
