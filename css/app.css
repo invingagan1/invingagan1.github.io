@@ -1,5 +1,5 @@
 .headerPanel{
-    background: #6200ea;
+    background: #01579b;
     height: 200px;
     color:#FFFFFF;
     padding:16px;
@@ -22,5 +22,16 @@
 .content{
     padding: 16px;
     background: rgba(255,255,255,0.87);
-    height: 1000px;
+}
+.experience h5{
+    border-bottom: 1px solid #CDCDCD;
+    padding-bottom: 10px;
+}
+.project{
+    border-bottom: 1px solid #CDCDCD;
+    padding-bottom: 10px;
+}
+.achivements h6, .education h6{
+    border-bottom: 1px solid #CDCDCD;
+    padding-bottom: 10px;
 }
