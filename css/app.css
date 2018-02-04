@@ -1,22 +1,42 @@
+body{
+    font-size: 14px;
+}
+h1{
+    font-size: 2em;
+}
+h2{
+    font-size: 1.8em;
+}
+h3{
+    font-size: 1.5em;
+}
+h4{
+    font-size: 1.2em;
+}
+h5{
+    font: 1em;
+}
+h6{
+    font-size: 0.8em;
+}
 .headerPanel{
     background: #01579b;
-    height: 200px;
     color:#FFFFFF;
-    padding:16px;
+    padding: 10px;
     box-shadow: 0 0 10px #000;
     position: fixed;
     width: 100%;
+    height: 85px;
 }
 .headerPanel h1{
     margin:0px;
-    padding-top:16px;
-    padding-bottom:16px; 
+    
 }
 .headerPanel h3{
     margin:0px;
 }
 .filler{
-    height: 200px;
+    height: 85px;
     background: rgba(255,255,255,0.87);
 }
 .content{
@@ -24,8 +44,8 @@
     background: rgba(255,255,255,0.87);
 }
 .experience h5{
-    border-bottom: 1px solid #CDCDCD;
-    padding-bottom: 10px;
+    /* border-bottom: 1px solid #CDCDCD; */
+    /* padding-bottom: 10px; */
 }
 .project{
     border-bottom: 1px solid #CDCDCD;
